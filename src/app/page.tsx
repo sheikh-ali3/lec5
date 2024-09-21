@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 
 function HomePage() {
   return (
@@ -17,7 +18,7 @@ function HomePage() {
           <span>2</span>
           <span>3</span>
         </div>
-        <img src="" alt="" />
+        <Image src="" alt="" width={0} height={0}/>
       </div>
     </div>
   )
