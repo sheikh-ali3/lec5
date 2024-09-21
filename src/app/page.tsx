@@ -26,10 +26,10 @@ function HomePage() {
             style={{ borderRadius: '50%', margin: 'auto' , display: 'block'}}/> 
       </div>
 
-      <div>
+      <div className='m-[50px]'>
         <h2 className='text-[40px] font-semibold m-10'>Services I Offer</h2>
         <p className='text-justify font-normal text-[20px] m-10'>Legendary assassin John Wick (<a className='hover:text-[#3b83f6de]' href="https://en.wikipedia.org/wiki/Keanu_Reeves" target="_blank" rel="noopener noreferrer"> Keanu Reeves </a>) retired from his violent career aner marrying the love of his life. Her sudden death leaves John in deep mouning. When sadistic mobster Josef Tarasov (<a className='hover:text-[#3b83f6de]' href="https://en.wikipedia.org/wiki/Alfie_Allen" target="_blank" rel="noopener noreferrer">Alfie Allen</a>) and his thugs steal John's prized car and kill the puppy that was a last gift from his wife. John unleashes die killing machine within and seeks vengeatre. Meanwhile Joseph's father (<a className='hover:text-[#3b83f6de]' href="https://en.wikipedia.org/wiki/Michael_Nyqvist" target="_blank" rel="noopener noreferrer">Michael Nyqvist</a>) John's former colleague puts a huge bounty on John's head.</p>
-        <div className='inline-flex m-5 mr-4'>
+        <div className='inline-flex m-[30px] pl-[50px]'>
           <div className='relative w-[25%] m-9 bg-white text-black rounded-md text-center hover:bg-[#3b83f6de] hover:text-black hover:translate-y-2 transition-transform duration-300'>
             <span className='pt-[20px]'>1</span>
             <p className='m-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eligendi obcaecati consequuntur optio, accusantium rerum, maiores nesciunt non debitis consectetur tenetur repellat iure, pariatur quia officiis aperiam recusandae ipsum praesentium!</p>
