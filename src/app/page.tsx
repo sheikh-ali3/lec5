@@ -2,9 +2,9 @@ import React from 'react'
 import Image from 'next/image'
 // import Link from 'next/link'
 import MyCard from '../components/MyCard'
-import { FaFacebook } from "react-icons/fa";
-import { FaYoutube } from "react-icons/fa";
-import { FaLinkedin } from "react-icons/fa";
+// import { FaFacebook } from "react-icons/fa";
+// import { FaYoutube } from "react-icons/fa";
+// import { FaLinkedin } from "react-icons/fa";
 // import { FaPencilRuler } from "react-icons/fa";
 
 
@@ -21,9 +21,10 @@ function HomePage() {
         <h3 className='m-5 text-[40px]'>Elite Bounty Hunter</h3>
         <p className='m-5 text-[20px] font-medium'>John Wick is an elite bounty hunter, very sharp skilful and extremely professional in his. This phonemenal screenplay is writtten by <a className='hover:text-[#3b83f6de]' href="https://en.wikipedia.org/wiki/Derek_Kolstad">Derek Kolstad</a>. This film was a directorial debut for <a className='hover:text-[#3b83f6de]' href="https://en.wikipedia.org/wiki/Chad_Stahelski" target="_blank" rel="noopener noreferrer">Chad Stahelski</a>. The character of John Wick is played by <a className='hover:text-[#3b83f6de]' href="https://en.wikipedia.org/wiki/Keanu_Reeves" target="_blank" rel="noopener noreferrer">Keanu Reeves</a> .</p>
         <div className='inline-flex space-x-[250px] m-6 md:space-x-14'>
-          <span><FaFacebook /></span>
+          {/* <span><FaFacebook /></span>
           <span><FaYoutube /></span>
-          <span><FaLinkedin /></span>
+          <span><FaLinkedin /></span> */}
+          test
         </div>
         <Image 
             className='block text-center justify-center' 
