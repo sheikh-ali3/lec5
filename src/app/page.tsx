@@ -13,7 +13,7 @@ function HomePage() {
     <div className='bg-black min-h-screen'>
       <nav className='text-center flex justify-between px-8 py-7'> 
         <h3 className='font-medium text-[25px]'>Next Js</h3>
-        <button className='bg-blue-500 px-8 py-3 rounded-md'>CV</button>
+        <button className='bg-red-500 md:bg-blue-500 px-8 py-3 rounded-md'>CV</button>
       </nav>
 
       <div className=' w-[40%] justify-center text-center m-auto md:w-[60%]'>
