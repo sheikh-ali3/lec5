@@ -5,7 +5,7 @@ import MyCard from '../components/MyCard'
 import { FaFacebook } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
-import { FaPencilRuler } from "react-icons/fa";
+// import { FaPencilRuler } from "react-icons/fa";
 
 
 function HomePage() {
