@@ -26,6 +26,7 @@ function HomePage() {
           <span><FaLinkedin /></span> */}
           test
         </div>
+        <img src="/john.jfif" alt="" />
         <Image 
             className='block text-center justify-center' 
             src="https://i.pinimg.com/564x/1c/9a/15/1c9a15fd79028745ea6eb4155355a912.jpg" 
